@@ -52,4 +52,4 @@ This notebook strategically leverages the capabilities of the pre-trained Effici
   * **patience**: 2
   * **delta**: 0.001
 
-The model accuracy stays consistent in the range of > 92% on the test data.
+The model accuracy stays consistent in the range of > 90% on the test data.
