@@ -40,8 +40,8 @@ This notebook strategically leverages the capabilities of the pre-trained Effici
  By harnessing the transfer learning paradigm encapsulated within EfficientNetB0, this project endeavors to enhance the performance of skin cancer image classification. 
  The model has been fine-tuned to discern intricate patterns and features indicative of malignant and benign skin lesions, thereby contributing to the overarching goal of advancing early detection and diagnostic precision in the realm of dermatological pathology.
 
- ![EfficientNet](./pictures/image.png)
 ## Results
+
 * **train/validation/test**: 90/05/05
 * **CrossEntropyLoss**
 * **Adadelta**:
